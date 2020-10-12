@@ -1,2 +1,2 @@
-# project-T
-add programs and contribute to project T
+# Palindrome
+Check if a number is Palindrome
